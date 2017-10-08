@@ -1,5 +1,7 @@
 # Ejemplo creacion de raza con carros
 
+![Imagen de muestra](https://raw.githubusercontent.com/developerfab/taller_netlogo_complexud/master/ejemplo%20carro/carro%20view.png)
+
 ## ¿Qué es esto?
 
 Este es un ejemplo sobre como crear una raza y modificar sus propiedades
